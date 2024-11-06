@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Wahyu Jihad Umaternate
 
-![Profile Picture](foto1.png)
+![banner](banner.mp4)
 
 ## 🎓 IT Enthusiast
 Hi! My name is **Wahyu Jihad Umaternate**, and you can call me Wahyu. I am a student of Informatics Engineering at Khairun University. I have expertise in web development and a passion for continuous learning.
