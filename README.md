@@ -8,12 +8,14 @@ Hi! My name is **Wahyu Jihad Umaternate**, and you can call me Wahyu. I am a stu
 ### 🌟 About Me
 I am well-versed in using Laravel, and my current goal is to enhance my skills as I pursue a professional career in Software Engineering, contributing to impactful projects and solutions.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryddntaabbs&layout=compact&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate
+&layout=compact&langs_count=6)
 
 ---
 
 ## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate
+&show_icons=true&count_private=true&theme=radical)
 ---
 
 ## 🛠️ My Awesome Services
