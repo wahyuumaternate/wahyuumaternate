@@ -10,9 +10,6 @@ I am well-versed in using Laravel, and my current goal is to enhance my skills a
 
 ---
 
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6)
-
 ## 🏆 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
 ---
