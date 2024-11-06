@@ -12,7 +12,7 @@ I am well-versed in using Laravel, and my current goal is to enhance my skills a
 ---
 
 ## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&langs_count=6&theme=radical)
 ---
 
 
