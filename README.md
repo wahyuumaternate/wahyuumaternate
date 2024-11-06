@@ -6,7 +6,15 @@
 Hi! My name is **Wahyu Jihad Umaternate**, and you can call me Wahyu. I am a student of Informatics Engineering at Khairun University. I have expertise in web development and a passion for continuous learning.
 
 ### 🌟 About Me
-I am well-versed in using Laravel and my current goal is to enhance my skills as I pursue a professional career in Software Engineering, contributing to impactful projects and solutions.
+I am well-versed in using Laravel, and my current goal is to enhance my skills as I pursue a professional career in Software Engineering, contributing to impactful projects and solutions.
+
+---
+
+## 📊 Website Statistics
+![Website Stats](https://img.shields.io/badge/Views-1,234-brightgreen)
+![Website Stats](https://img.shields.io/badge/Visitors-567-blue)
+![Website Stats](https://img.shields.io/badge/Projects-10-orange)
+![Website Stats](https://img.shields.io/badge/Followers-100-red)
 
 ---
 
