@@ -10,12 +10,11 @@ I am well-versed in using Laravel, and my current goal is to enhance my skills a
 
 ---
 
-## 📊 Website Statistics
-![Website Stats](https://img.shields.io/badge/Views-1,234-brightgreen)
-![Website Stats](https://img.shields.io/badge/Visitors-567-blue)
-![Website Stats](https://img.shields.io/badge/Projects-10-orange)
-![Website Stats](https://img.shields.io/badge/Followers-100-red)
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=6)
 
+## 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical)
 ---
 
 ## 🛠️ My Awesome Services
