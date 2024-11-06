@@ -1,38 +1,49 @@
-# Hello, World! 👋
+# 👋 Hello, I'm Wahyu Jihad Umaternate
 
-Welcome to my GitHub profile! I'm **Wahyu Umaternate** and this repository is a glimpse into my journey as a developer. 🚀
+![Profile Picture](foto1.png)
 
-## 🌟 About Me
-- 🔭 Currently working on: **[Your Project/Tech Stack]**
-- 🌱 Learning: **[New Technologies or Skills]**
-- 👯 Seeking collaboration on: **[Projects or Topics of Interest]**
-- 🤔 Looking for help with: **[Areas You Need Assistance]**
-- 💬 Feel free to ask me about: **[Your Areas of Expertise]**
-- 📫 Reach me at: **[Your Email or Contact Information]**
-- 😄 Pronouns: **[Your Pronouns]**
-- ⚡ Fun fact: **[A Unique or Interesting Fact About You]**
+## 🎓 IT Enthusiast
+Hi! My name is **Wahyu Jihad Umaternate**, and you can call me Wahyu. I am a student of Informatics Engineering at Khairun University. I have expertise in web development and a passion for continuous learning.
 
-## 🛠️ Tech Stack
-Here's a glimpse of the tools and technologies I work with:
-- **Languages**: 
-  - [Language 1]
-  - [Language 2]
-  - [Language 3]
-- **Frameworks**: 
-  - [Framework 1]
-  - [Framework 2]
-- **Tools**: 
-  - [Tool 1]
-  - [Tool 2]
-
-## 📈 GitHub Stats
-![Wahyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&theme=tokyonight)
-
-## 🌐 Connect with Me
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-profile)
-- [Personal Website](your-website)
+### 🌟 About Me
+I am well-versed in using Laravel and my current goal is to enhance my skills as I pursue a professional career in Software Engineering, contributing to impactful projects and solutions.
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects and don't hesitate to reach out! 😊
+## 🛠️ My Awesome Services
+### Website Development
+- **Projects Completed**: 10+
+
+### Mobile App Development
+- **Projects Completed**: 1+
+
+---
+
+## 📂 My Portfolio
+Here are some of the projects I've worked on:
+
+1. **HMTI News App**  
+   ![Project 1](project1.png)
+
+2. **Website Kelurahan**  
+   ![Project 2](project2.png)
+
+3. **Website HMTI**  
+   ![Project 3](project3.png)
+
+---
+
+## 📞 Want to Make Awesome and Impactful Products?
+Feel free to reach out to me!  
+📧 [Contact Me](mailto:wahyuumaternate@protonmail.com)
+
+---
+
+## 🌐 Follow Me
+- [Instagram](https://www.instagram.com/wahyu.umaternate15?igsh=MW5wcXBudjhjaXo2bw%3D%3D&utm_source=qr)
+- [LinkedIn](https://www.linkedin.com/in/wahyu-umaternate-108164288/?locale=in_ID)
+- [Twitter](#)
+
+---
+
+Thank you for visiting my profile! I'm excited to connect and collaborate on exciting projects. 😊
