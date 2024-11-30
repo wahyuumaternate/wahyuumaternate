@@ -1,55 +1,26 @@
-# 👋 Hello, I'm Wahyu Jihad Umaternate
+<h1 align="center">Hello 👋, I'm Hello, I'm Wahyu Jihad Umaternate</h1>
+<h3 align="center">Web Development Enthusiast</h3>
 
 ![banner](banner.gif)
 
-## 🎓 IT Enthusiast
-Hi! My name is **Wahyu Jihad Umaternate**, and you can call me Wahyu. I am a student of Informatics Engineering at Khairun University. I have expertise in web development and a passion for continuous learning.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyuumaternate&label=Profile%20views&color=0e75b6&style=flat" alt="wahyuumaternate" /> </p>
+- 🌱 I’m currently learning **Dart and PHP**
 
-### 🌟 About Me
-I am well-versed in using Laravel, and my current goal is to enhance my skills as I pursue a professional career in Software Engineering, contributing to impactful projects and solutions.
-
-
----
-
-## 🏆 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&count_private=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&langs_count=6&theme=radical)
----
+- 👨‍💻 All of my projects are available at [https://github.com/wahyuumaternate](https://github.com/wahyuumaternate)
 
 
-## 🛠️ My Awesome Services
-### Website Development
-- **Projects Completed**: 10+
+- ⚡**TONGKRONGAN IT**
 
-### Mobile App Development
-- **Projects Completed**: 1+
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/albilal-bintang-iskandar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="albilal-bintang-999655273" height="30" width="40" /></a>
+<a href="https://instagram.com/albilalbintang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="albilalbintang" height="30" width="40" /></a>
+</p>
 
-## 📂 My Portfolio
-Here are some of the projects I've worked on:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com//img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 
-1. **HMTI News App**  
-   ![Project 1](project1.png)
 
-2. **Website Kelurahan**  
-   ![Project 2](project2.png)
 
-3. **Website HMTI**  
-   ![Project 3](project3.png)
 
----
-
-## 📞 Want to Make Awesome and Impactful Products?
-Feel free to reach out to me!  
-📧 [Contact Me](mailto:wahyuumaternate@protonmail.com)
-
----
-
-## 🌐 Follow Me
-- [Instagram](https://www.instagram.com/wahyu.umaternate15?igsh=MW5wcXBudjhjaXo2bw%3D%3D&utm_source=qr)
-- [LinkedIn](https://www.linkedin.com/in/wahyu-umaternate-108164288/?locale=in_ID)
-- [Twitter](#)
-
----
-
-Thank you for visiting my profile! I'm excited to connect and collaborate on exciting projects. 😊
