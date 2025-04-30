@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Hello, I'm Wahyu Jihad Umaternate</h1>
+<h1 align="center">Hello 👋, I'm Wahyu Jihad Umaternate</h1>
 <h3 align="center">Web Development Enthusiast</h3>
 
 ![banner](banner.gif)
