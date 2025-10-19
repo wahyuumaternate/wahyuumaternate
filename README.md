@@ -1,26 +1,71 @@
-<h1 align="center">Hello 👋, I'm Wahyu Jihad Umaternate</h1>
-<h3 align="center">Web Development Enthusiast</h3>
+<div align="center">
+  
+# 👋 Hello, I'm Wahyu Jihad Umaternate
 
-![banner](banner.gif)
+### 🚀 Web Development Enthusiast | Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyuumaternate&label=Profile%20views&color=0e75b6&style=flat" alt="wahyuumaternate" /> </p>
-- 🌱 I’m currently learning **Laravel and Flutter**
+<img src="https://komarev.com/ghpvc/?username=wahyuumaternate&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/wahyuumaternate](https://github.com/wahyuumaternate)
+</div>
 
+---
 
-- ⚡**TONGKRONGAN IT**
+## 🧑‍💻 About Me
 
+Saya seorang pengembang web yang passionate dalam menciptakan solusi digital yang inovatif dan bermanfaat. Saat ini fokus memperdalam kemampuan dalam pengembangan aplikasi web dan mobile.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/wahyu-umaternate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wahyu" height="30" width="40" /></a>
-<a href="https://www.instagram.com/wahyu_umaternate/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wahyu" height="30" width="40" /></a>
-</p>
+- 🌱 Sedang belajar **Laravel** dan **Flutter**
+- 💼 Bergabung dengan komunitas **TONGKRONGAN IT**
+- 🎯 Fokus pada full-stack web development
+- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/wahyu-umaternate)**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com//img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="php" width="60" height="60"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" alt="php" width="60" height="60"/> </a>
+---
 
+## 🛠️ Tech Stack
 
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-umaternate)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wahyu_umaternate/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wahyuumaternate)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
