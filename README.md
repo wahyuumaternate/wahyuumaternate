@@ -2,7 +2,7 @@
 
 # Wahyu Jihad Umaternate
 
-### Full Stack Developer · DevOps Enthusiast
+### Full Stack Developer 
 
 Building digital solutions with **Laravel, Flutter, Vue.js & DevOps**
 
