@@ -82,22 +82,6 @@ exploring:
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&hide_border=true&rank_icon=github" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&hide_border=true" height="165">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuumaternate&hide_border=true" width="70%">
-
-</div>
-
----
-
 <div align="center">
 
 ### Let's Build Something Great
