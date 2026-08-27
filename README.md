@@ -1,68 +1,107 @@
 <div align="center">
-  
-# 👋 Hello, I'm Wahyu Jihad Umaternate
 
-### 🚀 Full Stack Developer | DevOps Enthusiast
+# Wahyu Jihad Umaternate
 
-<img src="https://komarev.com/ghpvc/?username=wahyuumaternate&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+### Full Stack Developer · DevOps Enthusiast
+
+Building digital solutions with **Laravel, Flutter, Vue.js & DevOps**
+
+<img src="https://komarev.com/ghpvc/?username=wahyuumaternate&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/wahyu-umaternate) · [GitHub](https://github.com/wahyuumaternate)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-Saya seorang pengembang web yang passionate dalam menciptakan solusi digital yang inovatif dan bermanfaat. Saat ini fokus memperdalam kemampuan dalam pengembangan aplikasi web, mobile, dan infrastruktur DevOps.
+I'm a **Full Stack Developer** passionate about building clean, scalable, and useful digital solutions.
 
-- 🌱 Sedang belajar **Laravel**, **Flutter**, **Vue.js**, **Docker** & **DevOps**
-- 💼 Bergabung dengan komunitas **TONGKRONGAN IT**
-- 🎯 Fokus pada full-stack web development & containerization
-- 🔧 Exploring CI/CD pipelines dan automation
-- 📫 Reach me: **[LinkedIn](https://www.linkedin.com/in/wahyu-umaternate)**
+My current focus is web and mobile application development, backend systems, and DevOps practices — from writing application code to deploying and maintaining infrastructure.
+
+* 🌱 Learning **Laravel, Flutter, Vue.js, Docker & DevOps**
+* 💻 Focused on **Full Stack Web & Mobile Development**
+* ⚙️ Exploring **CI/CD, Containerization & Automation**
+* 🤝 Part of the **TONGKRONGAN IT** community
+* 📍 Indonesia
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
 
 ### Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square\&logo=laravel\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vue.js\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
 
 ### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## Currently Learning
+
+```yaml
+focus:
+  - Laravel
+  - Flutter
+  - Vue.js
+  - Docker
+  - DevOps
+
+exploring:
+  - CI/CD
+  - Containerization
+  - Cloud Infrastructure
+  - Automation
+  - System Architecture
+```
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=wahyuumaternate&show_icons=true&hide_border=true&rank_icon=github" height="165">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wahyuumaternate&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyuumaternate&layout=compact&hide_border=true" height="165">
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=wahyuumaternate&hide_border=true" width="70%">
 
 </div>
 
 ---
 
-## 🎯 Currently Learning
-```yaml
+<div align="center">
+
+### Let's Build Something Great
+
+Open to collaboration, ideas, and interesting projects.
+
+</div>
